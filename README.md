@@ -5,7 +5,8 @@
  
 ## REQUIREMENTS
  1. Autodesk fusion 360
- 2. Windows 10
+ 2. Windows 10[CAD_Practical_Report_Exp_1.2.pdf](https://github.com/user-attachments/files/35035680/CAD_Practical_Report_Exp_1.2.pdf)
+
  3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ [CAD_Practical_Report_Exp_1.2.pdf](https://github.com/user-attachments/files/35035691/CAD_Practical_Report_Exp_1.2.pdf)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
